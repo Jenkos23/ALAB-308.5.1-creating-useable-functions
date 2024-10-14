@@ -1,6 +1,6 @@
 # ALAB-308.5.1-creating-useable-functions
 
-This assigmnet consist Part 1: Thinking Functionally, creating a resuable function and using to make calcuations
+This assigment consist Part 1: Thinking Functionally, creating a resuable function and using to make calcuations
 Part 2: Thinking Methodically: Using a callback functions alongside Array methods to accomplish the following:
 Sort the array by age.
 Filter the array to remove entries with an age greater than 50.
